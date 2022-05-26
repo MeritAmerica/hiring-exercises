@@ -3,7 +3,7 @@
 You'll build a basic URL shortener!
 
 # Time
-It's important to us that you spend at least one hour on this exercise, and NO MORE than three hours. Please [set a timer](https://www.google.com/search?q=timer+3+hours) for 3 hours and don't invest any additional time! This exercise is meant to be fodder for meaningful discussion with a real human, not a pass/fail or automate-able project submission.
+It's important to us that you spend at least one hour on this exercise, and NO MORE than three hours. Please <a href="https://www.google.com/search?q=timer+3+hours)" target="blank">set a timer</a> for 3 hours and don't invest any additional time! This exercise is meant to be fodder for meaningful discussion with a real human, not a pass/fail or automate-able project submission.
 
 
 # Features
