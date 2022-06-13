@@ -7,10 +7,10 @@ It's important to us that you spend at least one hour on this exercise, and NO M
 
 
 # Features
-Given our commitment to your time, please consider tackling these features in the order we've listed. That way, if you want to end a bit early, you'll have already addressed the pieces we think are the most intresting to discuss.
+Given our commitment to your time, please consider tackling these features in the order we've listed. That way, if you want to end a bit early, you'll have already addressed the pieces we think are the most interesting to discuss.
 
 # Step 1: the URL model and redirect endpoint
-Build a table/model to store URLs. Use whatever database system you prefer (we used rails + sqlite), but please do use some sort of DBMS persistance (no raw files on disk or in memory, please!)
+Build a table/model to store URLs. Use whatever database system you prefer (we used rails + sqlite), but please do use some sort of DBMS persistence (no raw files on disk or in memory, please!)
 
 Hardcode some data into your database and use this model to power your first HTTP endpoint! You can use any URL scheme/convention; we went with `/urls/:id`, where `:id` is the shortened URL key
 
@@ -75,10 +75,10 @@ If you haven't yet reached your 1-hour minimum, or you have some time left befor
 - a unit test or two (these are our favorite)
 - some validations: what should our app do if a key is taken, or if a field is left blank?
 - a new feature: track the number of times each shortened URL has been unfolded & visited, and show count on the URL list page
-- auto-generate keys instead of takng user input
+- auto-generate keys instead of taking user input
 
 # Submission
-- Add some instructions to help us get your code's programming languaged & dependencies installed
+- Add some instructions to help us get your code's programming language & dependencies installed
 - Create a zip file of your repo (if you're using git, `git archive --format=zip --output project.zip` will do it for ya) and make it available to `leith@meritamerica.org` via your file-sharing service of choice (or just send it straight through email if it's not too big)
 
 Thanks so much for your time and interest at working for Merit America! We'll be in touch soon.
