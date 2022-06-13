@@ -10,7 +10,7 @@ It's important to us that you spend at least one hour on this exercise, and NO M
 Given our commitment to your time, please consider tackling these features in the order we've listed. That way, if you want to end a bit early, you'll have already addressed the pieces we think are the most interesting to discuss.
 
 # Step 1: the URL model and redirect endpoint
-Build a table/model to store URLs. Use whatever database system you prefer (we used rails + sqlite), but please do use some sort of DBMS persistence (no raw files on disk or in memory, please!)
+Build a table/model to store URLs. Use whatever database system you prefer (we used rails + sqlite), but please do use a database for persistence (no raw files on disk or in memory, please!)
 
 Hardcode some data into your database and use this model to power your first HTTP endpoint! You can use any URL scheme/convention; we went with `/urls/:id`, where `:id` is the shortened URL key
 
