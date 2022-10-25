@@ -11,7 +11,7 @@ Given our commitment to your time, please consider tackling these features in th
 
 # Step 1: Model your data
 
-Build tables/models to store your data. Use whatever database system you prefer (we used rails + sqlite), but please do use a database for persistence (no raw files on disk or in memory, please!)
+Build tables/models to store your data. Use whatever database system you prefer (we used rails + sqlite), but please do use a database for persistence
 
 The app is interested in users and movies, and being able to save which users are interested in watching which movies. In addition you should be able to persist whether a user has watched a movie before. Please look ahead to the API sections for a better idea of how you will interact with this model.
 
