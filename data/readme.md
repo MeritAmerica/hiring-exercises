@@ -22,6 +22,6 @@ It's important to us that you spend at least one hour on this exercise, and NO M
 
 # Submission
 
-Please store your submission as a private repository on github.com and share with leith@meritamerica.org. Alternatively, you may use a file-sharing service of your choice, and notify leith@meritamerica.org via email when complete. Please do not send the files as an attachment in the email as it can flag the message as spam.
+Please store your submission in a new private repository on github.com and share with leith@meritamerica.org. Alternatively, you may use a file-sharing service of your choice, and notify leith@meritamerica.org via email when complete. Please do not send the files as an attachment in the email as it can flag the message as spam.
 
 Thanks so much for your time and interest at working for Merit America! We'll be in touch soon.
